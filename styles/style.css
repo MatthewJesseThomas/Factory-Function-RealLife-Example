@@ -1,0 +1,13 @@
+/* body */
+body {
+    text-align: center;
+}
+.row button {
+    font-size: 1.5rem;
+}
+
+@media (width <=900px) {
+    .form .btn {
+        width: 100%;
+    } 
+}
