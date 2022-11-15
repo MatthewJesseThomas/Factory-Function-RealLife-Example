@@ -6,6 +6,11 @@ body {
 .row button {
     font-size: 1.5rem;
 }
+footer {
+    position: sticky;
+    margin-right: ;
+    margin-top: 10rem;
+}
 
 @media (width <=900px) {
     .form .btn {
