@@ -1,6 +1,7 @@
 /* body */
 body {
     text-align: center;
+    background-image: linear-gradient(to right, #f1b1b1 , #82e6e8);
 }
 .row button {
     font-size: 1.5rem;
